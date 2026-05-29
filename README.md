@@ -8,7 +8,7 @@ training. Each solution is documented with the problem description and
 my approach.
 
 ## Progress
-- Problems solved: 2 / 100+
+- Problems solved: 3 / 100+
 - Language: Python 3
 
 ## Structure
